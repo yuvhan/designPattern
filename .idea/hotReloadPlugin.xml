@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="HotReloadPluginConfiguration">
+    <option name="keywords">
+      <list>
+        <option value="MarkTest" />
+      </list>
+    </option>
+    <option name="selectedHostName" value="sd-bjpg-c103.yz02:18086" />
+    <option name="selectedProcess">
+      <JvmProcess>
+        <option name="detailVmArgs" value="-XX:+AggressiveOpts -XX:+UseStringDeduplication -Xss256k -Xmx1G -Dfile.encoding=UTF-8 -Djava.library.path=/usr/local/lib" />
+        <option name="displayName" value="com.kuaishou.admin.runner.tool.MarkTest 16000 937790066 133685638 12000" />
+        <option name="pid" value="52612" />
+      </JvmProcess>
+    </option>
+    <option name="server" value="hotfix.test.gifshow.com" />
+  </component>
+</project>
